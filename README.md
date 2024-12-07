@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="https://media.discordapp.net/attachments/1143514438717165589/1309051153870360596/download.gif?ex=67402c64&is=673edae4&hm=fe26f6de244af1d2d2bebbca5aa0ce2bc30bf2dd3225eaaf72aabce93145cf59&=">
+<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1143514438717165589/1309051153870360596/download.gif?ex=67549ba4&is=67534a24&hm=f59ec1e903ebd53d37f6211a2ec929e8d5c9ca67f20cbc5a2fb5b3917e7977a9&">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -50,17 +50,8 @@
   </a>
 </div>
 
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/github-contribution-grid-snake.svg">
-</picture>
-
 # 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yunk-rey/yunk-rey/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/snake.svg" alt="Snake animation" />
