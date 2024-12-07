@@ -16,10 +16,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedrolek721@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:pedrolek721@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pedro-vin%C3%ADcius-45269031a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/uepdrx/)
-
 
 <h3 align="left">My Stack ~</h3>
 
@@ -30,24 +29,26 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="php logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="25" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" height="25" alt="aftereffects logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="25" alt="photoshop logo"  />
 </div>
 
-
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madeinpdr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=36&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=561760&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/madeinpdr/github-readme-stats">
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeinpdr&layout=compact&hide_title=false&title_color=FF00F6&border_color=561760&text_color=FF00F6&bg_color=000" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madeinpdr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&custom_title=Pedro%20Vin%C3%ADcius%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madeinpdr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 # 
