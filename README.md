@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1143514438717165589/1309051153870360596/download.gif?ex=67549ba4&is=67534a24&hm=f59ec1e903ebd53d37f6211a2ec929e8d5c9ca67f20cbc5a2fb5b3917e7977a9&">
+<img align="right" alt="" height="190px" src="https://media.discordapp.net/attachments/1143514438717165589/1309051153870360596/download.gif?ex=68f92a24&is=68f7d8a4&hm=2c62a2c057e310a33a70753ffdec614cb3398f70db5254d28b18fb20189efaca&=">
 
 <h3 align="left">Connect with me!</h3>
 
