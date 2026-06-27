@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG](https://cdn.discordapp.com/attachments/1519751799349973163/1520248396789715105/aiz_whalestine.gif?ex=6a408126&is=6a3f2fa6&hm=10dcead2d48e0e94c254971662c1a3bbacb18cdd382fe4f6a1d763162d14a8ae&)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -9,10 +9,12 @@
 #
 
 <p align="center">Estudante de Engenharia de Software na Faculdade Uniceplac de Brasília. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras e estou aberto para propostas de emprego.
-  
+
 #
 
-<img align="right" alt="" height="190px" src="https://media.discordapp.net/attachments/1143514438717165589/1309051153870360596/download.gif?ex=68f92a24&is=68f7d8a4&hm=2c62a2c057e310a33a70753ffdec614cb3398f70db5254d28b18fb20189efaca&=">
+<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1143514438717165589/1309051153870360596/download.gif?ex=67549ba4&is=67534a24&hm=f59ec1e903ebd53d37f6211a2ec929e8d5c9ca67f20cbc5a2fb5b3917e7977a9&">
+
+<img align="right" alt="" height="190px" src="https://cdn.discordapp.com/attachments/1519751799349973163/1520248396789715105/aiz_whalestine.gif?ex=6a408126&is=6a3f2fa6&hm=10dcead2d48e0e94c254971662c1a3bbacb18cdd382fe4f6a1d763162d14a8ae&)">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -58,3 +60,8 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/madeinpdr/madeinpdr/output/snake.svg" alt="Snake animation" />
+
+preciso colocar uma imagem de node tambem tipo assim
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
